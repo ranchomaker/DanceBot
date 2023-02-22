@@ -1,7 +1,7 @@
 
 // Define the pin modes
-const int trigPin = 2;
-const int echoPin = 3;
+const int trigPin = 3;
+const int echoPin = 2;
 const int l1 = 5;
 const int l2 = 6;
 const int r1 = 9;
